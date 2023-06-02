@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I'm currently learning on Factoria F5 Bootcamp
+I'm currently learning fullstack on Factoria F5 Bootcamp
 
 
 # 💻 Tech Stack:
